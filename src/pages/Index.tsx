@@ -4,6 +4,7 @@ import HeroSection from '../components/HeroSection';
 import FeaturesSection from '../components/FeaturesSection';
 import ValuesSection from '../components/ValuesSection';
 import TimelineSection from '../components/TimelineSection';
+import ConnectSection from '../components/ConnectSection';
 import Footer from '../components/Footer';
 
 const Index = () => {
@@ -13,6 +14,7 @@ const Index = () => {
       <FeaturesSection />
       <ValuesSection />
       <TimelineSection />
+      <ConnectSection />
       <Footer />
     </div>
   );
