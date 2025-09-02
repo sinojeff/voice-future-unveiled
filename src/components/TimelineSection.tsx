@@ -16,7 +16,7 @@ const TimelineSection = () => {
       status: "in-progress"
     },
     {
-      date: "Aug 15, 2025",
+      date: "Dec 25, 2025",
       title: "Official Launch",
       description: "Public launch of VoiceNet.AI platform",
       status: "upcoming"
